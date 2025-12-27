@@ -9,9 +9,6 @@ theme: minima
 head:
   - '<link rel="icon" href="logo.ico" type="image/x-icon">'
 
-# Color scheme
-color_scheme: custom
-
 # Navigation
 nav_enabled: true
 search_enabled: true
