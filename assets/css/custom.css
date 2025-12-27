@@ -1,0 +1,76 @@
+/* Course Grid Layout */
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.course-card {
+  border: 3px solid;
+  border-radius: 15px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.course-card.beginner {
+  border-color: #FFD93D;
+  background: linear-gradient(135deg, #FFF9E6 0%, #FFFFFF 100%);
+}
+
+.course-card.intermediate {
+  border-color: #4A90E2;
+  background: linear-gradient(135deg, #E6F2FF 0%, #FFFFFF 100%);
+}
+
+.course-card.advanced {
+  border-color: #FF6B6B;
+  background: linear-gradient(135deg, #FFE6E6 0%, #FFFFFF 100%);
+}
+
+.course-card.teacher {
+  border-color: #9B59B6;
+  background: linear-gradient(135deg, #F3E6FF 0%, #FFFFFF 100%);
+}
+
+.course-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+/* Age badges */
+.age-badge {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.age-badge.beginner { background: #FFD93D; color: #2C3E50; }
+.age-badge.intermediate { background: #4A90E2; color: white; }
+.age-badge.advanced { background: #FF6B6B; color: white; }
+
+/* Progress indicator */
+.lesson-progress {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.progress-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #ddd;
+}
+
+.progress-dot.completed {
+  background: #4CAF50;
+}
+
+.progress-dot.current {
+  background: #FF6B6B;
+  animation: pulse 1.5s infinite;
+}

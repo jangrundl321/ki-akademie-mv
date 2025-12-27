@@ -1,0 +1,22 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Kurse"
+    url: /courses/
+    children:
+      - title: "Anfänger (6-9)"
+        url: /courses/anfaenger/
+      - title: "Fortgeschritten (10-13)"
+        url: /courses/fortgeschritten/
+      - title: "Profis (14+)"
+        url: /courses/profis/
+      - title: "Für Lehrer"
+        url: /courses/lehrer/
+      - title: "Für Studenten"
+        url: /courses/studenten/
+  - title: "Projekte"
+    url: /projekte/
+  - title: "Über mich"
+    url: /about/
+  - title: "Kontakt"
+    url: /kontakt/
