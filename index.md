@@ -1,12 +1,10 @@
 ---
 layout: home
-title:
+title: Willkommen bei der KI Akademie MV! 🚨
 nav_order: 1
 description: "Lerne KI und Mathe - für jedes Alter und ohne Vorwissen!"
 permalink: /
 ---
-
-# Willkommen bei der KI Akademie MV! 🚨
 
 Entdecke die Welt der **Künstlichen Intelligenz** und **Mathematik**! Egal wie alt du bist oder wie viel du schon weißt - hier findest du den perfekten Kurs für dich.
 
