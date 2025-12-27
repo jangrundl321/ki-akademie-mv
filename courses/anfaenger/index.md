@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Anfänger (6-9 Jahre)
-nav_order: 2
 has_children: true
 parent: Kurse
 permalink: /courses/anfaenger/
