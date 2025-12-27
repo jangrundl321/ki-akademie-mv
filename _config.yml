@@ -7,9 +7,6 @@ theme: minima
 head:
   - '<link rel="icon" href="favicon.ico" type="image/x-icon">'
 
-minima:
-  nav_pages:
-    - about.md
 
 # Navigation
 nav_enabled: true
@@ -24,7 +21,7 @@ aux_links:
     - "//github.com/jangrundl321/ki-akademie-mv"
 
 # Enable heading anchors
-heading_anchors: true
+heading_anchors: false
 
 # Back to top
 back_to_top: true
