@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Willkommen
+title:
 nav_order: 1
 description: "Lerne KI und Mathe - für jedes Alter und ohne Vorwissen!"
 permalink: /
