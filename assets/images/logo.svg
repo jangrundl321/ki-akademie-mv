@@ -1,0 +1,35 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lighthouse body -->
+  <rect x="85" y="80" width="30" height="70" fill="#FF6B6B" rx="2"/>
+  
+  <!-- Lighthouse stripes -->
+  <rect x="85" y="95" width="30" height="8" fill="#FFFFFF"/>
+  <rect x="85" y="115" width="30" height="8" fill="#FFFFFF"/>
+  <rect x="85" y="135" width="30" height="8" fill="#FFFFFF"/>
+  
+  <!-- Lighthouse top (light house) -->
+  <rect x="82" y="70" width="36" height="10" fill="#4A90E2" rx="1"/>
+  
+  <!-- Light beam -->
+  <path d="M 100 70 L 70 40 L 75 35 L 100 65 Z" fill="#FFD93D" opacity="0.6"/>
+  <path d="M 100 70 L 130 40 L 125 35 L 100 65 Z" fill="#FFD93D" opacity="0.6"/>
+  
+  <!-- Light bulb/AI symbol -->
+  <circle cx="100" cy="55" r="12" fill="#FFD93D"/>
+  <circle cx="100" cy="55" r="8" fill="#FFF9E6"/>
+  
+  <!-- AI circuit pattern in light -->
+  <circle cx="97" cy="53" r="1.5" fill="#FF6B6B"/>
+  <circle cx="103" cy="53" r="1.5" fill="#FF6B6B"/>
+  <circle cx="100" cy="58" r="1.5" fill="#FF6B6B"/>
+  <line x1="97" y1="53" x2="100" y2="58" stroke="#FF6B6B" stroke-width="0.8"/>
+  <line x1="103" y1="53" x2="100" y2="58" stroke="#FF6B6B" stroke-width="0.8"/>
+  
+  <!-- Base/foundation -->
+  <path d="M 80 150 L 120 150 L 125 160 L 75 160 Z" fill="#2C3E50"/>
+  
+  <!-- Playful stars (representing learning) -->
+  <path d="M 40 60 L 42 66 L 48 66 L 43 70 L 45 76 L 40 72 L 35 76 L 37 70 L 32 66 L 38 66 Z" fill="#FFD93D" opacity="0.8"/>
+  <path d="M 160 80 L 162 86 L 168 86 L 163 90 L 165 96 L 160 92 L 155 96 L 157 90 L 152 86 L 158 86 Z" fill="#4A90E2" opacity="0.8"/>
+  <path d="M 145 50 L 146.5 54 L 150.5 54 L 147.5 56.5 L 149 60.5 L 145 58 L 141 60.5 L 142.5 56.5 L 139.5 54 L 143.5 54 Z" fill="#FF6B6B" opacity="0.7"/>
+</svg>
