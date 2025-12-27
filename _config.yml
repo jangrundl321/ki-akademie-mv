@@ -7,7 +7,7 @@ baseurl: ""
 theme: minima
 
 head:
-  - '<link rel="icon" href="logo.ico" type="image/x-icon">'
+  - '<link rel="icon" href="images/assets/logo.ico" type="image/x-icon">'
 
 # Navigation
 nav_enabled: true
