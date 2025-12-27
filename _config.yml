@@ -6,6 +6,9 @@ baseurl: ""
 
 theme: minima
 
+head:
+  - '<link rel="icon" href="assets/image/logo.ico" type="image/x-icon">'
+
 # Logo
 logo: "/assets/images/logo.svg"
 
