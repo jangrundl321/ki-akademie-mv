@@ -1,0 +1,74 @@
+title: KI Akademie MV
+description: Lerne KI und Mathe - für jedes Alter!
+url: "https://ki-akademie-mv.de"
+baseurl: ""
+
+theme: just-the-docs
+
+# Logo
+logo: "/assets/images/logo.svg"
+
+# Color scheme
+color_scheme: custom
+
+# Navigation
+nav_enabled: true
+search_enabled: true
+
+# Footer
+footer_content: "© 2025 KI Akademie MV - KI Lernen für Kinder in MV"
+
+# Just the Docs settings
+aux_links:
+  "GitHub":
+    - "//github.com/jangrundl321/ki-akademie-mv"
+
+# Enable heading anchors
+heading_anchors: true
+
+# Back to top
+back_to_top: true
+back_to_top_text: "Nach oben"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Collections for different course types
+collections:
+  projects:
+    output: true
+    permalink: /projekte/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: "courses/anfaenger"
+    values:
+      layout: default
+      grand_parent: Kurse
+      parent: Anfänger (6-9 Jahre)
+  - scope:
+      path: "courses/fortgeschritten"
+    values:
+      layout: default
+      grand_parent: Kurse
+      parent: Fortgeschritten (10-13 Jahre)
+  - scope:
+      path: "courses/profis"
+    values:
+      layout: default
+      grand_parent: Kurse
+      parent: Profis (14+ Jahre)
+  - scope:
+      path: "courses/lehrer"
+    values:
+      layout: default
+      grand_parent: Kurse
+      parent: Für Lehrer & Eltern
+  - scope:
+      path: "courses/Studenten"
+    values:
+      layout: default
+      grand_parent: Kurse
+      parent: Für Studenten
