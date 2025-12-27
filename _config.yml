@@ -3,7 +3,8 @@ description: Lerne KI und Mathe - für jedes Alter!
 url: "https://ki-akademie-mv.jangrundl.de"
 baseurl: ""
 
-nav-include: false
+nav-pages: 
+  - about.md
 
 theme: minima
 
