@@ -14,8 +14,6 @@ Entdecke die Welt der **Künstlichen Intelligenz** und **Mathematik**! Egal wie 
 
 ## Wähle deinen Kurs
 
-<div class="course-grid">
-
 ### 🎈 Anfänger (6-9 Jahre)
 **Erste Schritte in die KI-Welt**
 
