@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Anfänger (6-9 Jahre)
+title: Anfänger
 has_children: true
 parent: Kurse
 permalink: /courses/anfaenger/
 ---
 
 # 🎈 Kurs für Anfänger
-
-**Für Kinder von 6-9 Jahren**
 
 Willkommen! In diesem Kurs lernst du auf ganz einfache und lustige Weise, was Künstliche Intelligenz ist.
 

@@ -5,13 +5,15 @@ description: "Lerne KI und Mathe - für jedes Alter und ohne Vorwissen!"
 permalink: /
 ---
 
+WORK IN PROGRESS!!!
+
 Entdecke die Welt der **Künstlichen Intelligenz** und **Mathematik**! Egal wie alt du bist oder wie viel du schon weißt - hier findest du den perfekten Kurs für dich.
 
 ---
 
 ## Wähle deinen Kurs
 
-### 🎈 Anfänger (6-9 Jahre)
+### 🎈 Anfänger
 **Erste Schritte in die KI-Welt**
 
 Lerne spielerisch, was KI ist und wo du sie jeden Tag triffst!
@@ -24,7 +26,7 @@ Lerne spielerisch, was KI ist und wo du sie jeden Tag triffst!
 
 ---
 
-### 🚀 Fortgeschritten (10-13 Jahre)
+### 🚀 Fortgeschritten
 **Wie funktioniert KI wirklich?**
 
 Entdecke, wie Computer lernen und baue deine ersten eigenen KI-Projekte!
@@ -37,7 +39,7 @@ Entdecke, wie Computer lernen und baue deine ersten eigenen KI-Projekte!
 
 ---
 
-### 🎯 Profis (14+ Jahre)
+### 🎯 Profis
 **Deep Learning & Programmierung**
 
 Tauche tiefer in die Materie ein und lerne echte KI-Entwicklung kennen!
@@ -61,8 +63,6 @@ Unterstütze junge Lerner beim Entdecken der KI!
 
 [Zum Material →](/courses/lehrer/)
 
-</div>
-
 ---
 
 ### 👨‍🏫 Für Studenten
@@ -71,8 +71,6 @@ Unterstütze junge Lerner beim Entdecken der KI!
 TODO
 
 [Zum Material →](/courses/studenten/)
-
-</div>
 
 ---
 
